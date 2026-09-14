@@ -44,9 +44,9 @@ Risk Score = Likelihood × Impact
 
 Risk levels:
 
-- 1–2 = Low
-- 3–4 = Medium
-- 6–9 = High
+- 1-2 = Low
+- 3-4 = Medium
+- 6-9 = High
 
 Inherent Risk represents the level of risk before considering existing controls.
 
@@ -118,7 +118,7 @@ The vendor implements:
 
 Evidence includes an access control policy, role matrix, and recent access review report.
 
-However, the Joiner–Mover–Leaver (JML) process has not yet been fully verified.
+However, the Joiner-Mover-Leaver (JML) process has not yet been fully verified.
 
 ### Data Loss Prevention – Partially Effective
 
